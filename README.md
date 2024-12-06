@@ -6,3 +6,5 @@ G protein-coupled receptors as candidates for modulation and activation of the c
 
 MA-Plot.Rd: Next generation sequencing count dataset Mean average MA Plots for different species.
 selected function(rowMeans, read.delim, complete.cases).
+††††
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
